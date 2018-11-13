@@ -59,7 +59,7 @@ Interactive
 
 
 ####Feedback
-<a name="feedback"></a>
+<a name="Feedback"></a>
 Contribute
 
 #### Expansion
@@ -93,7 +93,7 @@ Useful Source</a>
     <td class="tg-0pky">
       [Create an anchor](#feedback)
     </td>
-    <td class="tg-0pky"><a href="#feedback">Feedback</a></td>
+    <td class="tg-0pky"><a href="#Feedback">Feedback</a></td>
   </tr>
   <tr>
     <td class="tg-xldj" colspan="3">Sidebar</td>
